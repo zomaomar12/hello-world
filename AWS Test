@@ -1,5 +1,5 @@
 Account ID: 9490-1748-7832
-Secrets:  
+Secrets: AKIAS6LEZTKMNSCSG56A
 ~/.aws/credentials
 Password = 'Omar Zo'
 arn: arn:aws:iam::123456789012:role/testing
